@@ -10,4 +10,5 @@ Tested on Linux / OS X
 (From within a terminal that is in the project's directory):
 
 chmod a+ x uninstall_atom.pl
+
 ./uninstall_atom.pl <your user name>
