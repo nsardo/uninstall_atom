@@ -6,6 +6,9 @@ For OS X
 #### Made with Atom
 =O
 
+#### Either clone, download project zip, or get the release perl file:
+[RELEASE](https://github.com/nsardo/uninstall_atom/releases)
+
 ### Usage:
 (From within a terminal that is in the project's directory):
 
