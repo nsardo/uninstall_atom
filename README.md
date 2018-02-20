@@ -1,4 +1,5 @@
 # Atom Editor Uninstall Script
+[![GitHub version](https://badge.fury.io/gh/nsardo%2Funinstall_atom.svg)](https://badge.fury.io/gh/nsardo%2Funinstall_atom)
 
 A Perl Script to uninstall the Atom.app Editor, and remove all known artifacts it creates. 
 For OS X
